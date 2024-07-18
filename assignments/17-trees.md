@@ -2,7 +2,7 @@
 
 ## Easy
 
-- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) `leetcode`
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) `leetcode`  Done
 - [Same Tree](https://leetcode.com/problems/same-tree/) `leetcode`
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) `leetcode`
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) `leetcode`
